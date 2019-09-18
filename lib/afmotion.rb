@@ -1,6 +1,5 @@
 require "afmotion/version"
 require 'motion-cocoapods'
-require 'motion-require'
 
 unless defined?(Motion::Project::Config)
   raise "This file must be required within a RubyMotion project Rakefile."

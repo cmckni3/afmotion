@@ -1,5 +1,3 @@
-motion_require 'version'
-
 module AFMotion
   class HTTP
     def self.operation_manager

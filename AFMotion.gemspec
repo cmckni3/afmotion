@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "motion-cocoapods", ">= 1.4.1"
-  s.add_dependency "motion-require", ">= 0.1"
   s.add_development_dependency 'rake'
   s.add_development_dependency 'webstub', "~> 1.1"
 end

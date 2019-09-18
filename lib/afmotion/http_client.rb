@@ -1,6 +1,3 @@
-motion_require 'version'
-motion_require 'client_shared'
-
 module AFMotion
   class Client
     class << self

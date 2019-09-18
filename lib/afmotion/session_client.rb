@@ -1,6 +1,3 @@
-motion_require 'http_client'
-motion_require 'version'
-
 =begin
   AFMotion::SessionClient.build("http://google.com") do |client|
     client.session_configuration :default # :ephemeral
